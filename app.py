@@ -314,7 +314,7 @@ if submitted:
 # ---------- Footer ----------
 st.markdown("---")
 st.markdown(
-    "Open source on [GitHub](https://github.com/Schachkatzen29/floodcheck). "
+    "Open source on [GitHub](https://github.com/glitching-pineapple/floodcheck). "
     "Data: FEMA NFHL, US Census Geocoder, FEMA Risk Rating 2.0. "
     "Not affiliated with FEMA, NFIP, or any insurance provider."
 )
