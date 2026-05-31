@@ -2,7 +2,7 @@
 
 A free, transparent flood risk estimator for US addresses.
 
-**Live demo:** [your-url-will-go-here-after-deploy](#)
+**Live demo:** [https://floodchecks.streamlit.app/](#)
 
 ## What it does
 
