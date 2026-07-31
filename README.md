@@ -15,7 +15,7 @@ Enter a US address. Get:
 
 ## Why this exists
 
-FEMA publishes flood zones. They tell you a code like "AE" or "X." They don't tell you the expected dollar loss, or how that compares to insurance. Private services like First Street Foundation do this with proprietary models and increasingly paywalled access. **FloodCheck is the open-source, transparent alternative.**
+FEMA publishes flood zones. They tell you a code like "AE" or "X." They don't tell you the expected dollar loss, or how that compares to insurance. Some private services do this, but with proprietary models and paywalls. FloodCheck is an open source and transparent alternative.
 
 ## The Canal Street example
 
