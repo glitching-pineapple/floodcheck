@@ -24,7 +24,7 @@ Address: 500 Canal St, New Orleans, LA
 - FEMA subtype: **AREA WITH REDUCED FLOOD RISK DUE TO LEVEE**
 - Annual expected loss: meaningfully higher than other "Zone X" addresses
 
-This address looks safe based on the zone code alone. The subtype reveals it's only safe *because of levee protection* — and Katrina (2005) showed what happens when that assumption fails. FloodCheck surfaces this; FEMA's official map portal hides it behind a footnote.
+This address looks safe based on the zone code alone. The subtype reveals it's only safe *because of levee protection* — and Katrina (2005) showed what happens when that assumption fails. FloodCheck surfaces this detail. 
 
 ## Data sources
 
@@ -35,11 +35,10 @@ This address looks safe based on the zone code alone. The subtype reveals it's o
 
 ## Limitations
 
-- Single-hazard (flood only) — wildfire, tornado, hurricane not yet included
-- Population-average damage fractions; actual structures vary
-- Regulatory probabilities, not empirical frequencies
-- Does not account for sea level rise or climate-driven non-stationarity
-- State-average premium estimates, not actual quotes
+- Only accounts for floods
+- It is an estimate 
+- Does not account for sea level rise or climate driven changes
+- Premium estimates based on state averages
 
 ## Run locally
 
